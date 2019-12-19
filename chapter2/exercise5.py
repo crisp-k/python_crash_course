@@ -1,0 +1,1 @@
+print('Joseph said to his brothers, "You intended evil, but God intended good"')
